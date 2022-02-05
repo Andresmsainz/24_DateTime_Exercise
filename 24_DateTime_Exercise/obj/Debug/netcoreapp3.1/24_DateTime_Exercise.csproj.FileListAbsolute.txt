@@ -1,0 +1,13 @@
+C:\SRC\CSharp\24_DateTime_Exercise\24_DateTime_Exercise\bin\Debug\netcoreapp3.1\24_DateTime_Exercise.exe
+C:\SRC\CSharp\24_DateTime_Exercise\24_DateTime_Exercise\bin\Debug\netcoreapp3.1\24_DateTime_Exercise.deps.json
+C:\SRC\CSharp\24_DateTime_Exercise\24_DateTime_Exercise\bin\Debug\netcoreapp3.1\24_DateTime_Exercise.runtimeconfig.json
+C:\SRC\CSharp\24_DateTime_Exercise\24_DateTime_Exercise\bin\Debug\netcoreapp3.1\24_DateTime_Exercise.runtimeconfig.dev.json
+C:\SRC\CSharp\24_DateTime_Exercise\24_DateTime_Exercise\bin\Debug\netcoreapp3.1\24_DateTime_Exercise.dll
+C:\SRC\CSharp\24_DateTime_Exercise\24_DateTime_Exercise\bin\Debug\netcoreapp3.1\24_DateTime_Exercise.pdb
+C:\SRC\CSharp\24_DateTime_Exercise\24_DateTime_Exercise\obj\Debug\netcoreapp3.1\24_DateTime_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\SRC\CSharp\24_DateTime_Exercise\24_DateTime_Exercise\obj\Debug\netcoreapp3.1\24_DateTime_Exercise.AssemblyInfoInputs.cache
+C:\SRC\CSharp\24_DateTime_Exercise\24_DateTime_Exercise\obj\Debug\netcoreapp3.1\24_DateTime_Exercise.AssemblyInfo.cs
+C:\SRC\CSharp\24_DateTime_Exercise\24_DateTime_Exercise\obj\Debug\netcoreapp3.1\24_DateTime_Exercise.csproj.CoreCompileInputs.cache
+C:\SRC\CSharp\24_DateTime_Exercise\24_DateTime_Exercise\obj\Debug\netcoreapp3.1\24_DateTime_Exercise.dll
+C:\SRC\CSharp\24_DateTime_Exercise\24_DateTime_Exercise\obj\Debug\netcoreapp3.1\24_DateTime_Exercise.pdb
+C:\SRC\CSharp\24_DateTime_Exercise\24_DateTime_Exercise\obj\Debug\netcoreapp3.1\24_DateTime_Exercise.genruntimeconfig.cache
